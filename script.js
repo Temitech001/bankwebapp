@@ -28,7 +28,7 @@ const account3 = {
 };
 
 const account4 = {
-  owner: 'Sarah Smith',
+  owner: 'Temi',
   movements: [430, 1000, 700, 50, 90],
   interestRate: 1,
   pin: 4444,
